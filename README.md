@@ -1,3 +1,3 @@
-#Classification-of-Different-Tissue-Types-in-Histopathological-Images
+# Classification-of-Different-Tissue-Types-in-Histopathological-Images
 
 This study focuses on the classification of histopathological images using deep learning methods. The main purpose of the study is to classify histopathological images according to different tissue types with high accuracy. In this study, BACH ICIAR'18 breast cancer dataset was used for training and testing. Various traditional feature extraction methods (GLCM, SURF, HOG, SIFT, SFTA), machine learning (kNN, SVM and random forest) methods, deep learning (CNN) and transfer learning models (ResNet50, InceptionResNetV2, NASNetMobile, DenseNet121) used comparatively on these data sets.
